@@ -1,2 +1,1 @@
-# l10n
-LE CV
+# Alberto Gómez Martín CV
